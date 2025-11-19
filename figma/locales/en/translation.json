@@ -1,3 +1,6 @@
 {
-    "node_id.1:2": "theatre"
+    "node_id.1:2": "theatre",
+    "node_id.3:3": "box",
+    "node_id.3:4": "shelf",
+    "node_id.3:5": "bag"
 }
