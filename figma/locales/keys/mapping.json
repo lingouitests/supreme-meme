@@ -14,6 +14,16 @@
   "nodeID":"node_id.3:4",
   "lastChanged":1763545794
 },{
+  "key":"myPrefix_table_1",
+  "value":"table",
+  "nodeID":"node_id.4:6",
+  "lastChanged":1763546661
+},{
+  "key":"myPrefix_chair_2",
+  "value":"chair",
+  "nodeID":"node_id.4:7",
+  "lastChanged":1763546661
+},{
   "key":"myPrefix_bag_3",
   "value":"bag",
   "nodeID":"node_id.3:5",

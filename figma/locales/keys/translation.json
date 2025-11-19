@@ -2,5 +2,7 @@
   "node_id.1:2":"myPrefix_theatre_1",
   "node_id.3:3":"myPrefix_box_1",
   "node_id.3:4":"myPrefix_shelf_2",
+  "node_id.4:6":"myPrefix_table_1",
+  "node_id.4:7":"myPrefix_chair_2",
   "node_id.3:5":"myPrefix_bag_3"
 }
